@@ -19,11 +19,11 @@ This application is formatted to take a Database identical to the original instr
 
 This application is the Basic application. Formatted exactly like the original file names of BamazonCustomer.js
 
-|     |             Function                                                                                                                          
-          |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | Upon running the program, the user will be shown all of the inventory in the database, and will be asked to give the ID of the product they would like to purchase:                                                   |
-|  | uses the **spotify** API to take a song name from the user and returns the artist, song name, spotify-link and album                                       |
+
+ Upon running the program, the user will be shown all of the inventory in the database, and will be asked to give the ID of the product they would like to purchase:                
+ 
+  ![screen](https://user-images.githubusercontent.com/47464812/59154884-40ff1400-8a31-11e9-9266-c1f45e1aecec.jpeg)
+
 |   | uses the **OMDB** API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot |
 |       | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.                 |
 
