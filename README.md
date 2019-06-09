@@ -17,34 +17,11 @@ OVERVIEW
 
 This application is formatted to take a Database identical to the original instructions. It takes a database named Bamazon, a table named Products, and the columns of ItemID, ProductName, DepartmentName, Price, and StockQuantity.
 
-This application is the Basic application. Formatted exactly like the original file names of BamazonCustomer.js
+- **This application is the Basic application. Formatted exactly like the original file names of BamazonCustomer.js
 
 
- Upon running the program, the user will be shown all of the inventory in the database, and will be asked to give the ID of the product they would like to purchase:                
+ - **Upon running the program, the user will be shown all of the inventory in the database, and will be asked to give the ID of the product they would like to purchase:                
  
   ![screen](https://user-images.githubusercontent.com/47464812/59154884-40ff1400-8a31-11e9-9266-c1f45e1aecec.jpeg)
 
-|   | uses the **OMDB** API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot |
-|       | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.                 |
 
-**Before you get started, make sure you have these node packages installed:**
-
-1. **Dotenv:** Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
-
-   _Command Line: 'npm install dotenv'_
-
-2) **Request:** - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
-
-   _Command Line: 'npm install request'_
-
-3) **Moment:** - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-
-   _Command Line: 'npm install moment'_
-
-4) **Fs:** - a built in node package
-
-   _(npm i request)_
-
-### Functionality
-
----
