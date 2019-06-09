@@ -21,7 +21,7 @@ This application is the Basic application. Formatted exactly like the original f
 
 |     |             Function                                                                                                                                     |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | uses the **bandsintown** API to take a band name from the user and returns that bands next concert                                                        |
+|  | Upon running the program, the user will be shown all of the inventory in the database, and will be asked to give the ID of the product they would like to purchase:                                                   |
 |  | uses the **spotify** API to take a song name from the user and returns the artist, song name, spotify-link and album                                       |
 |   | uses the **OMDB** API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot |
 |       | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.                 |
