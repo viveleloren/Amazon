@@ -33,4 +33,10 @@ This application is formatted to take a Database identical to the original instr
 
 - If the user types in a quantity that is larger than the current available quantity for the product that they have chosen, then an error message pops up, and they are taken back to the starting prompt.
 
+---
+
+![screen(3)](https://user-images.githubusercontent.com/47464812/59154948-b6b7af80-8a32-11e9-8d31-85d499aefce4.png)
+
+Coded and Compiled by Loren Brown
+
 
