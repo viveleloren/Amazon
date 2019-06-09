@@ -19,7 +19,8 @@ This application is formatted to take a Database identical to the original instr
 
 This application is the Basic application. Formatted exactly like the original file names of BamazonCustomer.js
 
-|     |             Function                                                                                                                                     |
+|     |             Function                                                                                                                           ![screen](https://user-images.githubusercontent.com/47464812/59154884-40ff1400-8a31-11e9-9266-c1f45e1aecec.jpeg)
+          |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  | Upon running the program, the user will be shown all of the inventory in the database, and will be asked to give the ID of the product they would like to purchase:                                                   |
 |  | uses the **spotify** API to take a song name from the user and returns the artist, song name, spotify-link and album                                       |
