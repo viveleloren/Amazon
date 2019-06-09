@@ -13,9 +13,13 @@
 
 ---
 
-Liri is a command line application that takes user commands and queries from the command line and returns data from API's. The following commands have been hard coded into the program to give the user the capability to look up songs, concerts and movie information:
+OVERVIEW
 
-| Commands     | Function                                                                                                                                                   |
+This application is formatted to take a Database identical to the original instructions. It takes a database named Bamazon, a table named Products, and the columns of ItemID, ProductName, DepartmentName, Price, and StockQuantity.
+
+This application is the Basic application. Formatted exactly like the original file names of BamazonCustomer.js
+
+| Function                                                                                                                                                       |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | concert-this | uses the **bandsintown** API to take a band name from the user and returns that bands next concert                                                         |
 | spotify-this | uses the **spotify** API to take a song name from the user and returns the artist, song name, spotify-link and album                                       |
